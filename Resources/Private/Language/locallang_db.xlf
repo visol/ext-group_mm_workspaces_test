@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-10-12T14:19:32Z" product-name="group_mm_workspaces_test">
+		<header/>
+		<body>
+			<trans-unit id="tx_groupmmworkspacestest_domain_model_news">
+				<source>News</source>
+			</trans-unit>
+			<trans-unit id="tx_groupmmworkspacestest_domain_model_news.title">
+				<source>Title</source>
+			</trans-unit>
+			<trans-unit id="tx_groupmmworkspacestest_domain_model_news.contacts">
+				<source>Contacts</source>
+			</trans-unit>
+			<trans-unit id="tx_groupmmworkspacestest_domain_model_contact">
+				<source>Contact</source>
+			</trans-unit>
+			<trans-unit id="tx_groupmmworkspacestest_domain_model_contact.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_group_mm_workspaces_test_news.name">
+				<source>News</source>
+			</trans-unit>
+			<trans-unit id="tx_group_mm_workspaces_test_news.description">
+				<source></source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

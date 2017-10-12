@@ -1,0 +1,19 @@
+{
+    "name": "visol/group-mm-workspaces-test",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [
+        {
+            "name": "Lorenz Ulrich",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Visol\\GroupMmWorkspacesTest\\": "Classes"
+        }
+    }
+}
